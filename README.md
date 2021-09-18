@@ -1,5 +1,7 @@
 # Dynamics365-CrmTextParser
 
+[![Join the chat at https://gitter.im/yagasoft/Dynamics365-CrmTextParser](https://badges.gitter.im/yagasoft/Dynamics365-CrmTextParser.svg)](https://gitter.im/yagasoft/Dynamics365-CrmTextParser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Version: 1.1
 ---
 
