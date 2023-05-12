@@ -2,7 +2,6 @@
 
 [![Join the chat at https://gitter.im/yagasoft/Dynamics365-CrmTextParser](https://badges.gitter.im/yagasoft/Dynamics365-CrmTextParser.svg)](https://gitter.im/yagasoft/Dynamics365-CrmTextParser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### Version: 1.3
 ---
 
 A parser that resolves many challenges that come up in the context of Dynamics 365 dynamic text.
@@ -53,7 +52,7 @@ Install either [Yagasoft.Libraries.Common](https://www.nuget.org/packages/Yagaso
 Check the guide in the docs folder.
 
 ## Changes
-
++ Check Releases page for the later changes
 #### _v1.3 (2021-10-01)_
 + Added: HTML post-processor, which allows encoding/decoding text as HTML
 + Added: global options (HTML, expression switch, caching)
