@@ -8,7 +8,7 @@ A parser that resolves many challenges that come up in the context of Dynamics 3
 
 A rework of the YS Common 'AttributeParser' ([DynamicsCrm-Libraries](https://github.com/yagasoft/DynamicsCrm-Libraries)) to avail much more powerful text features.
 
-### Features
+## Features
 
   + Unique construct that guarantees it won't occur naturally in any text, which increases the solution's robustness
   + Supports parsing expressions; e.g., x>1&&y<3, which can also be used with column values
@@ -40,14 +40,14 @@ A rework of the YS Common 'AttributeParser' ([DynamicsCrm-Libraries](https://git
     + Collection:
       + Count, First, Last, Nth, Top, Distinct, Order, Where, Filter
 
-### Install
+## Install
 
 Import solution found at .
 The [Dynamics365-YsCommonSolution](https://github.com/yagasoft/Dynamics365-YsCommonSolution) solution is required for the configuration entities. It can be skipped if the dictionary or configuration constructs are not needed.
 
 Install either [Yagasoft.Libraries.Common](https://www.nuget.org/packages/Yagasoft.Libraries.Common/) (DLL installed) or [Yagasoft.Libraries.Common.File](https://www.nuget.org/packages/Yagasoft.Libraries.Common.File/) (the parser class itself is embedded in the project itself) NuGet package, and then reference the CrmParser class.
 
-### Guide
+## Guide
 
 Check the guide in the docs folder.
 
